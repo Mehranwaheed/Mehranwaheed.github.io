@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mehran Waheed</title>
+    <link>https://mehranwaheed.github.io/post/</link>
+    <description>Recent content in Projects on Mehran Waheed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://mehranwaheed.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Sunspot and sunflares</title>
+      <link>https://mehranwaheed.github.io/post/project_i/</link>
+      <pubDate>Thu, 25 Jan 2024 10:58:08 -0400</pubDate>
+      <guid>https://mehranwaheed.github.io/post/project_i/</guid>
+      <description>Project Description: In this project, I delved into the fascinating realm of solar flare prediction, leveraging data on sunspots and solar flares. The goal was to develop a robust model capable of forecasting severe solar flares, with a particular focus on X-class flares.&#xA;Key Steps and Achievements: Data Exploration and Cleaning: Conducted thorough exploratory data analysis (EDA) to understand patterns in sunspot data. Merged sunspot and solar flare datasets, enhancing the richness of information.</description>
+    </item>
+    <item>
+      <title>Project II: Load Forecasting</title>
+      <link>https://mehranwaheed.github.io/post/project_ii/</link>
+      <pubDate>Wed, 24 Jan 2024 11:00:59 -0400</pubDate>
+      <guid>https://mehranwaheed.github.io/post/project_ii/</guid>
+      <description>Project Overview The Electric Load Forecasting project aimed to predict future electric load consumption, a critical aspect for efficient energy management. The project underwent thorough exploratory data analysis (EDA) to gain insights into the dataset, followed by various preprocessing steps to prepare the data for modeling.&#xA;To optimize the performance of the predictive models, a grid search cross-validation approach was employed to fine-tune hyperparameters. Three distinct models, namely Random Forest, Decision Tree, and Feed Forward Neural Network, were evaluated.</description>
+    </item>
+  </channel>
+</rss>
